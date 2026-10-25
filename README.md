@@ -1,5 +1,8 @@
 # bmsel
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23648429.svg)](https://doi.org/10.5281/zenodo.23648429)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Bayesian model selection for group studies, in one call. Base MATLAB only.**
 
 `bmsel` takes the fit results you already have (one negative log-likelihood per
@@ -307,8 +310,14 @@ formulas, sizes and reproducibility of `bmsel.compare`. If SPM is on the path,
 
 ## Citing
 
-If you use `bmsel`, please cite the repository (see `CITATION.cff`; a DOI is
-provided through Zenodo) and the methods papers:
+If you use `bmsel`, please cite it (GitHub shows a ready-made citation under
+"Cite this repository"):
+
+> Dimitriadou, C. (2026). *bmsel: Bayesian model selection for group studies in
+> base MATLAB* (Version 0.1.0) [Computer software]. Zenodo.
+> https://doi.org/10.5281/zenodo.23648429
+
+and the methods papers:
 
 - Stephan, K. E., Penny, W. D., Daunizeau, J., Moran, R. J., & Friston, K. J.
   (2009). Bayesian model selection for group studies. *NeuroImage, 46*(4),

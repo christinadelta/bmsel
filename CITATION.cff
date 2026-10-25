@@ -8,6 +8,7 @@ authors:
 version: 0.1.0
 date-released: 2026-10-25
 license: MIT
+doi: 10.5281/zenodo.23648429
 repository-code: "https://github.com/christinadelta/bmsel"
 keywords:
   - model comparison
