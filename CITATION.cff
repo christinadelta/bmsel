@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use bmsel, please cite it as below, together with Stephan et al. (2009) and Rigoux et al. (2014)."
+title: "bmsel: Bayesian model selection for group studies in base MATLAB"
+type: software
+authors:
+  - family-names: Dimitriadou
+    given-names: Christina
+version: 0.1.0
+date-released: 2026-10-25
+license: MIT
+repository-code: "https://github.com/christinadelta/bmsel"
+keywords:
+  - model comparison
+  - Bayesian model selection
+  - exceedance probability
+  - computational modelling
+  - MATLAB
+references:
+  - type: article
+    title: "Bayesian model selection for group studies"
+    authors:
+      - family-names: Stephan
+        given-names: Klaas Enno
+      - family-names: Penny
+        given-names: Will D.
+      - family-names: Daunizeau
+        given-names: Jean
+      - family-names: Moran
+        given-names: Rosalyn J.
+      - family-names: Friston
+        given-names: Karl J.
+    journal: NeuroImage
+    volume: 46
+    issue: 4
+    start: 1004
+    end: 1017
+    year: 2009
+    doi: 10.1016/j.neuroimage.2009.03.025
+  - type: article
+    title: "Bayesian model selection for group studies - revisited"
+    authors:
+      - family-names: Rigoux
+        given-names: Lionel
+      - family-names: Stephan
+        given-names: Klaas Enno
+      - family-names: Friston
+        given-names: Karl J.
+      - family-names: Daunizeau
+        given-names: Jean
+    journal: NeuroImage
+    volume: 84
+    start: 971
+    end: 985
+    year: 2014
+    doi: 10.1016/j.neuroimage.2013.08.065

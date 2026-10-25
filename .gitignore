@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+# results written by examples / users
+results/
+*_results.mat
+# OS
+.DS_Store
+Thumbs.db
